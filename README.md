@@ -1,4 +1,4 @@
-****Amazon Sales Data Analysis Project Report****
+**Amazon Sales Data Analysis Project Report**
 
 
 **Objective**
